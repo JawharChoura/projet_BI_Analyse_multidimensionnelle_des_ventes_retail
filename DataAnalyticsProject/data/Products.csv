@@ -1,0 +1,20 @@
+ProductID;ProductName;Category;Subcategory;UnitPrice;StockQuantity
+1;T-Shirt Coton Blanc;Vêtements;T-Shirts;29.99;150
+2;Jean Slim Bleu;Vêtements;Jeans;79.99;80
+3;Robe Florale;Vêtements;Robes;59.99;45
+4;Veste en Cuir;Vêtements;Vestes;149.99;25
+5;Basket Running;Chaussures;Sport;89.99;60
+6;Baskets Cuir;Chaussures;Casual;69.99;55
+7;Montre Connectée;Électronique;Accessoires;199.99;40
+8;Écouteurs Bluetooth;Électronique;Audio;49.99;120
+9;Enceinte Portable;Électronique;Audio;79.99;35
+10;Smartphone X;Électronique;Smartphones;699.99;20
+11;Coque Téléphone;Accessoires;Protection;14.99;300
+12;Câble USB-C;Accessoires;Câbles;9.99;500
+13;Chargeur Rapide;Accessoires;Chargeurs;24.99;200
+14;Livre - Fiction;Livres;Romans;19.99;100
+15;Livre - Cuisine;Livres;Pratiques;24.99;75
+16;Jeu de Plateau;Jeux;Famille;39.99;50
+17;Puzzle 1000 pièces;Jeux;Casse-tête;14.99;90
+18;Crème Hydratante;Beauté;Soins;29.99;80
+19;Parfum Femme;Beauté;Parfums;59.99;40

@@ -1,0 +1,6 @@
+PlatformID;PlatformName;ChannelType;Region;CommissionRate
+1;Site Web;Direct;France;0.00
+2;Application Mobile;Direct;France;0.00
+3;Amazon;Marketplace;International;15.00
+4;Cdiscount;Marketplace;France;12.00
+5;eBay;Marketplace;International;10.00

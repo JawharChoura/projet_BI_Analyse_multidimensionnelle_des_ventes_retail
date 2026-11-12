@@ -1,0 +1,11 @@
+CustomerID;CustomerName;Email;City;Segment;LoyaltyPoints
+1;Sophie Martin;sophie.m@email.com;Paris;Premium;1250
+2;Thomas Bernard;thomas.b@email.com;Lyon;Standard;340
+3;Julie Petit;julie.p@email.com;Marseille;Premium;890
+4;Nicolas Durand;nicolas.d@email.com;Paris;Standard;120
+5;Emma Leroy;emma.l@email.com;Toulouse;Gold;2450
+6;Lucas Moreau;lucas.m@email.com;Nice;Standard;450
+7;Camille Simon;camille.s@email.com;Paris;Premium;1100
+8;Hugo Laurent;hugo.l@email.com;Lyon;Standard;230
+9;Léa Michel;lea.m@email.com;Marseille;Gold;2100
+10;Maxime Garcia;maxime.g@email.com;Bordeaux;Standard;380

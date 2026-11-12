@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Data Warehouse Retail.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Data Warehouse Retail.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Dim Store.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27C700F5-EFEB-E7D5-BF48-A0049FFE73BD}|Projet_Retail_SSAS\\Projet_Retail_SSAS.dwproj|solutionrelative:Projet_Retail_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data Warehouse Retail.dsv [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.dsv",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Data Warehouse Retail.dsv",
+              "ToolTip": "C:\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.dsv [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.dsv [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-19T12:13:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Store.dim [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Store.dim",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Dim Store.dim",
+              "ToolTip": "C:\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Store.dim [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Store.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-18T23:06:46.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data Warehouse Retail.cube [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.cube",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Data Warehouse Retail.cube",
+              "ToolTip": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Data Warehouse Retail.cube [Conception]",
+              "RelativeToolTip": "Projet_Retail_SSAS\\Data Warehouse Retail.cube [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-18T23:07:26.678Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Product.dim [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Dim Product.dim",
+              "ToolTip": "C:\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Product.dim [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Product.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-18T23:06:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Date.dim [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Dim Date.dim",
+              "ToolTip": "C:\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Date.dim [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Date.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-18T23:06:28.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Customer.dim [Conception]",
+              "DocumentMoniker": "C:\\2_em_ing\\sem2\\projet_bi\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Projet_Retail_SSAS\\Dim Customer.dim",
+              "ToolTip": "C:\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Customer.dim [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DataAnalyticsProject\\SSAS\\Projet_Retail_SSAS\\Projet_Retail_SSAS\\Dim Customer.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-18T23:06:17.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
